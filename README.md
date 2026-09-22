@@ -1,13 +1,39 @@
-I’m a Computer Science Engineering student with a strong interest in Cloud Computing, Artificial Intelligence, Backend Development, and Software Engineering.
+# 👋 Hi, I'm Yogesh
 
+### 💻 Computer Science Engineering Student | ☁️ Cloud & AI | ⚙️ Backend
 
+I'm a Computer Science Engineering student interested in **Cloud Computing,
+Artificial Intelligence, Backend Development, and Software Engineering**.
 
-Currently building hands-on skills in Python, FastAPI, AWS, Docker, Terraform, CI/CD, SQL, Linux, and Generative AI. I’m also strengthening my foundation in Java, DSA, DBMS, Operating Systems, and Computer Networks.
+I enjoy building **backend systems, AI-powered applications, REST APIs,
+cloud infrastructure, and scalable software solutions**.
 
+### 🛠️ Tech Stack
 
+**Languages:** Python • Java • C
 
-I enjoy building practical projects that involve backend systems, cloud infrastructure, AI applications, APIs, and scalable deployments.
+**Frontend:** HTML • CSS • JavaScript
 
+**Backend:** FastAPI • REST APIs
 
+**Databases:** SQL • MySQL
 
-I’m focused on continuous learning, solving real-world problems, and developing strong technical expertise for a career in Cloud and AI Engineering.
+**Cloud & DevOps:** AWS • Docker • Terraform • CI/CD • Linux • Git • GitHub
+
+**AI:** Generative AI • LLM APIs • RAG • AI Agents
+
+**Core CS:** DSA • DBMS • Operating Systems • Computer Networks
+
+### 🚀 Currently Building
+
+☁️ Cloud-based applications  
+🤖 AI-powered applications  
+⚙️ Backend & API systems  
+🏗️ Cloud infrastructure & automation
+
+I use GitHub to **build, experiment, learn, and share practical software
+projects** while continuously improving my engineering skills.
+
+### 📫 Connect With Me
+
+[LinkedIn](YOUR_LINKEDIN) • [Portfolio](YOUR_PORTFOLIO) • [Email](YOUR_EMAIL)
