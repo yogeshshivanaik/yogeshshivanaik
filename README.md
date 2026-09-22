@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Yogesh
+# 👋 Hi, I'm Yogesh S
 
 ### 💻 Computer Science Engineering Student | ☁️ Cloud & AI | ⚙️ Backend
 
@@ -36,4 +36,4 @@ projects** while continuously improving my engineering skills.
 
 ### 📫 Connect With Me
 
-[LinkedIn](www.linkedin.com/in/yogeshshivanaik) • [Portfolio](YOUR_PORTFOLIO) • [Email](yogeshshivanaik@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/yogeshshivanaik/) • [Portfolio](YOUR_PORTFOLIO) • [Email](yogeshshivanaik@gmail.com)
