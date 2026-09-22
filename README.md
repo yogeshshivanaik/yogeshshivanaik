@@ -36,4 +36,4 @@ projects** while continuously improving my engineering skills.
 
 ### 📫 Connect With Me
 
-[LinkedIn](YOUR_LINKEDIN) • [Portfolio](YOUR_PORTFOLIO) • [Email](YOUR_EMAIL)
+[LinkedIn](www.linkedin.com/in/yogeshshivanaik) • [Portfolio](YOUR_PORTFOLIO) • [Email](yogeshshivanaik@gmail.com)
